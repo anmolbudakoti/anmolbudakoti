@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmolbudakoti
-- 👀 I’m interested in Web & Software Development
-- 🌱 I’m currently learning Web Designing
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Reach me at : anmolbudakoti123@gmail.com
 
