@@ -11,7 +11,7 @@
 
 - :school: I am a `Full Stack Developer`.
 - :technologist: I love creating, designing and developing `Ideas`.
-- :student: I’m currently learning `Next.js` and `MERN Stack`.
+- :student: I’m currently learning `Next.js` and `TypeScript`.
 - :nerd_face: Always `learning new things`.
 <br>
 
